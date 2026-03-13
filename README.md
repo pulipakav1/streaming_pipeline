@@ -14,19 +14,19 @@ A production-grade streaming data pipeline that ingests, processes, and visualiz
 ## Live Pipeline 
 
 ### Kafka Cluster — 1 Broker, 4 Topics, 53 Partitions
-![Kafka UI](k1.png)
+![Kafka UI](screenshots/k1.png)
 
 ### Real-Time Dashboard — 1,624 Orders · $214K Revenue · 94.5% Payment Success
-![Dashboard](k2.png)
+![Dashboard](screenshots/k2.png)
 
 ### AWS S3 — 3 Topic Folders Writing in Real-Time
-![S3 Processed](3.png)
+![S3 Processed](screenshots/k3.png)
 
 ### AWS S3 — Date-Partitioned Parquet Output
-![S3 Partitioned](k4.png)
+![S3 Partitioned](screenshots/k4.png)
 
 ### Producer Logs — 10,000 Events at 24 events/sec
-![Producer Logs](k5.png)
+![Producer Logs](screenshots/k5.png)
 
 
 ## Tech Stack
